@@ -1,6 +1,6 @@
 # Yusuf Melih Bozgeyik
 
-Independent app developer and founder of **[Leya Production](https://leyaproduction.com)**.
+Independent app developer and founder of **[Leya Production](https://github.com/leya-production)**.
 
 I design and build apps for iPhone, iPad, Mac and Android, and the websites that introduce them. My work brings together product design, development, testing and release preparation.
 
@@ -13,6 +13,8 @@ I design and build apps for iPhone, iPad, Mac and Android, and the websites that
 | <img src="https://leyaproduction.com/assets/apps/mimosa-192.webp" width="48" alt="mimosa icon"> | **[mimosa](https://leyaproduction.com/en/mimosa)** | Notes, handwriting and PDF annotation with Apple Pencil. An Android version is built with Kotlin and Jetpack Compose. |
 | <img src="https://leyaproduction.com/assets/apps/lotus-192.webp" width="48" alt="Lotus icon"> | **[Lotus](https://leyaproduction.com/en/lotus)** | Flashcards and spaced repetition, with CloudKit sync. |
 | <img src="https://leyaproduction.com/assets/apps/trellis-192.webp" width="48" alt="Trellis icon"> | **[Trellis](https://leyaproduction.com/en/trellis)** | Daily study planning, routines and an AI planning assistant. |
+
+[See real product screenshots and walkthroughs →](https://github.com/leya-production/product-showcase)
 
 ## Work with me
 
